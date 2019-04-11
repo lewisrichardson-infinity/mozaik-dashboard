@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "bluebird": "^3.5.4",
+    "mozaik": "^1.4.4",
+    "react": "^16.8.6",
+    "react-mixin": "^5.0.0",
+    "reflux": "^6.4.1"
+  },
+  "peerDependencies": {
+    "mozaik": ">=1.4.2",
+    "react": "^0.13.3"
+  },
+  "name": "infinitypeople",
+  "version": "1.0.0",
+  "main": "client.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
